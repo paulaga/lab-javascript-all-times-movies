@@ -234,7 +234,7 @@ describe('Best year average - bestYearAvg', function () {
   });
 
   it('Should return the correct answer to a multiple elements array', function () {
-    expect(bestYearAvg(movies)).toEqual('The best year was 1972 with an average rate of 9.2');
+    expect(bestYearAvg(movies)).toEqual('The best year was 1972 with an average rate of 9.3');
   });
 
   it('Should return the oldest year when there is a tie', function () {

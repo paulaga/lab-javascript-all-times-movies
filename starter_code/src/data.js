@@ -13,7 +13,7 @@ var movies = [
     director: 'Francis Ford Coppola',
     duration: '2h 55min',
     genre: ['Crime', 'Drama'],
-    rate: '9.2'
+    rate: '9.3'
   },
   {
     title: 'The Godfather: Part II',
